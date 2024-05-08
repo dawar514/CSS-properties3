@@ -1,0 +1,14 @@
+.box2{
+    background-color: blueviolet;
+    color: white;
+    border: dotted 3px black;
+    border-bottom: 6px dotted black;
+    border-right: 7px dotted black;
+    border-left: 10px dotted magenta;
+}
+h1{
+    font-style: oblique;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-shadow: 2px 2px white;
+}
